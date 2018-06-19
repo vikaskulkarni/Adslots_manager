@@ -7,7 +7,9 @@ React, Webpack, SASS
 Platform:
 NODE, NPM
 
-Steps to install and run:
+Running App (Demo): http://18.209.16.90:8081/ (It will be slow the first time)
+
+Steps to install and run locally:
 
     git clone https://github.com/vikaskulkarni/Adslots_manager.git
     cd Adslots_manager
